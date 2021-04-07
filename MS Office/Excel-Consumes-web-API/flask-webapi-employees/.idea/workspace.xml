@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="321b4f50-31fd-4649-9bcd-1933e8c404bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tx1j7itoLTlRhHPCcp4BCUBu8K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="dbCommands" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskEmployeeWebAPI-0.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbCommands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskEmployeeWebAPI-0.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migrateData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskEmployeeWebAPI-0.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/migrateData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskEmployeeWebAPI-0.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.migrateData" />
+        <item itemvalue="Python.dbCommands" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="321b4f50-31fd-4649-9bcd-1933e8c404bd" name="Default Changelist" comment="" />
+      <created>1574387065090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574387065090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2027" height="373" key="GridCell.Tab.0.bottom" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.0.center" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.0.left" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.0.right" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.1.bottom" timestamp="1617782514719">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514719" />
+    <state width="2027" height="373" key="GridCell.Tab.1.center" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.1.left" timestamp="1617782514718">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514718" />
+    <state width="2027" height="373" key="GridCell.Tab.1.right" timestamp="1617782514719">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="373" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1617782514719" />
+    <state x="717" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1617767206200">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="717" y="384" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1617767206200" />
+  </component>
+</project>
